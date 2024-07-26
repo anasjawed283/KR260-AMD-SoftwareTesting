@@ -67,3 +67,20 @@ The Starter Kit has a primary and secondary boot device, isolating the boot firm
 - Browse to the location of the uncompressed image in the tool using the Blue folder icon.
 - From the device drop-down menu, select the correct microSD card.
 - Click on ‘Write’ and then ‘Yes’ at the prompt to continue the write process and wait till the process is completed.
+
+
+
+## Connecting Everything
+
+- Step 2. Connecting Everything  (Ubuntu)
+- The following are the key connections for the AMD Kria™ KR260 Robotics Starter Kit:
+- Insert the microSD card containing the boot image in the microSD card slot (J11) on the Starter Kit.
+- Get your USB-A to micro-B cable (a.k.a. micro-USB cable), which supports data transfer.
+  
+> [!NOTE]
+> Do not connect the USB-A end to your computer yet. Connect the micro-B end to J4 on the Starter Kit.
+
+- Connect your USB keyboard/mouse to the USB ports (U44 and U46).
+- Connect to a monitor/display with the help of a DisplayPort™ cable.
+- Connect the Ethernet cable to one of the PS ETH ports (J10D which is the top right port) for required internet access with factory loaded firmware.
+- Grab the Power Supply and connect it to the DC Jack (J12) on the Starter Kit. Do not insert the other end to the AC plug yet.
